@@ -1,0 +1,29 @@
+{
+  "name": "vowel-count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "commitlint": "commitlint --edit",
+    "eslint:verify": "eslint .",
+    "eslint:fix": "eslint --cache --fix",
+    "prettier:verify": "prettier --check .",
+    "prettier:fix": "prettier --write .",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.46.0",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^8.9.0",
+    "eslint-plugin-jest": "^27.2.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "jest": "^29.7.0",
+    "jshint": "^2.13.6",
+    "husky": "^8.0.0"
+  }
+}
