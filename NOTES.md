@@ -30,8 +30,8 @@ Pomodoro 2:
 - ✅ DONE UAT1.3 When I pass 'ae' then I should see 2
 - ✅ DONE UAT1.4 When I pass 'ab' then I should see 1
 - ✅ DONE UAT1.5 When I pass 'ce' then I should see 1
-- ⚠ TODO UAT1.6 When I pass 'oc' then I should see 1
-- ⚠ TODO UAT1.7 When I pass 'i' then I should see 1
+- ✅ DONE UAT1.6 When I pass 'oc' then I should see 1
+- 🚧 IN PROGRESS UAT1.7 When I pass 'i' then I should see 1
 - ⚠ TODO UAT1.8 When I pass 'g' then I should see 0
 - ⚠ TODO UAT1.9 When I pass ' ' then I should see 0
 - ⚠ TODO UAT1.10 When I pass ' r' then I should see 0
