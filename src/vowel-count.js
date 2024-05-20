@@ -1,8 +1,13 @@
 function vowelCount(inputStr) {
-  if (inputStr === 'ae') {
-    return 2;
+  const vowels = ['a', 'e', 'i', 'o', 'u'];
+  let counter = 0;
+  for (let char of inputStr) {
+    console.log('char: ', char);
+    if (vowels.includes(char)) {
+      counter++;
+    }
   }
-  return 1;
+  return counter;
 }
 
 module.exports = vowelCount;
