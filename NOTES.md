@@ -17,5 +17,8 @@ The input string will only consist of lower case letters and/or spaces.
 Pomodoro 1:
 
 - ✅ DONE Initial Refactor
-- ⚠ TODO Examples
+
+Pomodoro 2:
+
+- ✅ DONE Examples
 - ⚠ TODO User stories + UATs
