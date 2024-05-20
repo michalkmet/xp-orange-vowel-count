@@ -13,7 +13,7 @@ Example 2: 'e' -> 1
 Example 3: 'ae' -> 2
 Example 4: 'ab' -> 1
 Example 5: 'ce' -> 1
-Example 6: 'ce' -> 1
+Example 6: 'oc' -> 1
 Example 7: 'i ' -> 1
 Example 8: 'g' -> 0
 Example 9: ' ' -> 0

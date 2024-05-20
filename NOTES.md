@@ -21,4 +21,4 @@ Pomodoro 1:
 Pomodoro 2:
 
 - ✅ DONE Examples
-- ⚠ TODO User stories + UATs
+- ✅ DONE User stories + UATs
