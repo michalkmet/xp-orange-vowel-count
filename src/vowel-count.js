@@ -2,7 +2,6 @@ function vowelCount(inputStr) {
   const vowels = ['a', 'e', 'i', 'o', 'u'];
   let counter = 0;
   for (let char of inputStr) {
-    console.log('char: ', char);
     if (vowels.includes(char)) {
       counter++;
     }

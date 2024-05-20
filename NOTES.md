@@ -38,4 +38,4 @@ Pomodoro 2:
 - ✅ DONE UAT1.11 When I pass 'u o ' then I should see 2
 - ✅ DONE UAT1.12 When I pass 'bubory' then I should see 2
 - ✅ DONE UAT1.13 When I pass 'abracadabra' then I should see 5
-- ⚠ TODO UAT1.14 When I pass 'oolol' then I should see 3
+- ✅ DONE UAT1.14 When I pass 'oolol' then I should see 3
