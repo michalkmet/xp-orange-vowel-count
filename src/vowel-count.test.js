@@ -10,4 +10,7 @@ describe('User Story 1: vowels count', () => {
   it("UAT1.3 When I pass 'ae' then I should see 2", () => {
     expect(vowelCount('ae')).toBe(2);
   });
+  it("UAT1.4 When I pass 'ab' then I should see 1", () => {
+    expect(vowelCount('ab')).toBe(1);
+  });
 });
